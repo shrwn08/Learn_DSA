@@ -10,12 +10,12 @@
     
 }
 
-let num = 10;
+let num = 6;
 for(let i = 0; i < num; i++){
     const result = fibonacci(i);
     console.log(result)
    
 }
 
-   
+ 
 
